@@ -11,8 +11,8 @@ html {
     text-align: center;
 }
 
-body {
-    background-image: url('registro-usuario.jpg');
+body{
+    background-image: url('fondo-servicioPaciente.jpg');
     background-size: 100vw 100vh;
     background-repeat:no-repeat;
     background-attachment: fixed;
@@ -92,10 +92,11 @@ tr:hover td{                        /* superposicion de los clientes en la tabla
     color: white;
 }
 table td{               /* edits en la seccion de los clientes*/
-    padding: 20px;
+    padding: 16px;
     text-align: center;
     font-size: .85em;
 }
+
 table th{
     text-align: center;
 }
@@ -115,3 +116,4 @@ table th{
     font-weight: bold;
     border-radius: 20px;
 }
+

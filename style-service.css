@@ -1,134 +1,3 @@
-/*
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-    
-}
-
-html {
-    font-family: 'Segoe UI', sans-serif;
-    text-align: center;
-    background: linear-gradient(27deg, #34495e 50%,#2c3e50 50%); 
-}
-
-a{
-    text-decoration: none;
-}
-
-body {
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    font-family: Arial, Helvetica, sans-serif;
-    background: linear-gradient(27deg, #34495e 50%,#2c3e50 50%);
-}
-
-.users-form form{
-    display: flex;
-    flex-direction: column;
-    gap: 24px;
-    width: 30%;
-    margin: 20px auto;
-    text-align: center;
-}
-
-.users-form form input{
-    font-family: 'Segoe UI', sans-serif;
-}
-
-.users-form form input[type=text],
-.users-form form input[type=text],
-.users-form form input[type=text]{
-    padding: 8px;
-    border:2px solid #aaa;
-    border-radius:4px;
-    outline:none;
-    transition:.3s;
-}
-
-.users-form form input[type=text]:focus,
-.users-form form input[type=text]:focus,
-.users-form form input[type=text]:focus{
-    border-color:dodgerBlue;
-    box-shadow:0 0 6px 0 dodgerBlue;
-}
-
-.users-form form input[type=submit]{
-    border: none;
-    padding: 12px 50px;
-    text-decoration: none;
-    transition-duration: 0.4s;
-    cursor: pointer;
-    border-radius: 5px;
-    background-color: white; 
-    color: black; 
-    border: 2px solid #60a100;
-}
-
-.users-form form input[type=submit]:hover {
-    background-color: #60a100;
-    color: white;
-    border-radius: 20px;
-}
-
-.users-table table{
-    border: 3px solid rgba(0, 128, 23, 0.675);
-    border-collapse: collapse;
-    border-spacing: 5px 2.5px;
-    padding: 0;
-    width: 75%;
-    table-layout: fixed;
-    position:relative;
-    margin:auto;
-}
-
-table tr {
-    background-color: #f8f8f8;
-    border: 3px solid rgb(7, 7, 7);
-    padding: 4px;
-}
-
-tr:hover td{
-    background-color: #60a100;
-    color: white;
-}
-
-table th{
-    
-    padding: 16px;
-    text-align: center;
-    font-size: .85em;
-}
-
-.users-table--edit{
-    background: #009688;
-    padding: 6px;
-    color: #fff;
-    text-align: center;
-    font-weight: bold;
-    border-radius: 20px;
-}
-.users-table--delete{
-    background: #b11e1e;
-    padding: 6px;
-    color: #fff;
-    text-align: center;
-    font-weight: bold;
-    border-radius: 20px;
-}
-
-.users-table h2
-{
-    color: white;
-}
-
-form
-{
-    color: white;
-}
-*/
-
 * {
     box-sizing: border-box;
     margin: 0;
@@ -143,7 +12,7 @@ html {
 }
 
 body{
-    background-image: url('secundario.png');
+    background-image: url('fondo-servicios.jpg');
     background-size: 100vw 100vh;
     background-repeat:no-repeat;
     background-attachment: fixed;
@@ -247,5 +116,3 @@ table th{
     font-weight: bold;
     border-radius: 20px;
 }
-
-

@@ -8,10 +8,11 @@ html {
     
     font-family: 'Segoe UI', sans-serif;
     text-align: center;
+    
 }
 
 body{
-    background-image: url('secundario.png');
+    background-image: url('fondo-pacientes.png');
     background-size: 100vw 100vh;
     background-repeat:no-repeat;
     background-attachment: fixed;
@@ -97,6 +98,8 @@ table td{               /* edits en la seccion de los clientes*/
 }
 table th{
     text-align: center;
+    color: white;
+    background-color: #273746;
 }
 .users-table--edit{                                 /* Estilo Boton editar*/
     background: #2b4eea;

@@ -28,7 +28,7 @@
 body
 {
     font-family: Arial;
-    background-image: url('inicio.png');
+    background-image: url('fondo-login.png');
     background-size: 100vw 100vh;
     background-repeat:no-repeat;
     background-attachment: fixed;
@@ -86,6 +86,5 @@ body
     width: 100%;
     max-width: 1000px;
 }
-
 
 
